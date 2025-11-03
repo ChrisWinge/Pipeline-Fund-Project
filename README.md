@@ -36,7 +36,6 @@ The analysis was segmented into three core areas, yielding the following strateg
 | Metric | Result | Strategic Insight |
 | :--- | :--- | :--- |
 | **Win Rate Lift** | **12.8%** (Trained 33.6% vs. Untrained 20.8%) | **Training is a high-value intervention.** This provides a quantifiable metric for fundraising and program advocacy. |
-| **Program Volume** Training value is gained primarily by **participating at all**, not by increasing the number of programs taken. 
 
 ### 2. Program Effectiveness & Equity
 
