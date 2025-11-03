@@ -1,0 +1,259 @@
+program_id,partner_id,program_name,type,start_date,end_date,participants_count,active
+PRG0001,PAR001,Campaign Bootcamp,Bootcamp,2022-03-23,2022-07-22,28,False
+PRG0002,PAR001,Organizing Workshop,Workshop,2023-12-26,2024-08-11,34,False
+PRG0003,PAR001,Campaign Bootcamp,Workshop,2023-04-30,2023-07-10,18,False
+PRG0004,PAR001,Civic Fellows,Workshop,2023-01-03,2023-08-09,46,False
+PRG0005,PAR002,Leaders of Tomorrow,Workshop,2022-11-23,2023-07-12,19,False
+PRG0006,PAR002,Campaign Bootcamp,Workshop,2024-08-21,2024-11-15,59,False
+PRG0007,PAR002,Campaign Bootcamp,Bootcamp,2023-09-18,2024-05-15,18,False
+PRG0008,PAR002,Civic Fellows,Mentorship,2023-01-31,2023-06-12,23,False
+PRG0009,PAR003,Organizing Workshop,Workshop,2023-12-21,2024-07-02,57,False
+PRG0010,PAR003,Civic Fellows,Bootcamp,2022-02-26,2022-04-26,48,False
+PRG0011,PAR003,Organizing Workshop,Workshop,2022-03-20,2022-05-16,59,False
+PRG0012,PAR003,Organizing Workshop,Fellowship,2023-10-05,2024-02-23,64,False
+PRG0013,PAR004,Policy Lab,Fellowship,2023-06-06,2023-07-17,40,False
+PRG0014,PAR004,Leaders of Tomorrow,Mentorship,2024-01-16,2024-06-04,55,False
+PRG0015,PAR004,Civic Fellows,Mentorship,2022-09-13,2023-04-15,67,False
+PRG0016,PAR005,Civic Fellows,Bootcamp,2024-04-04,2024-10-29,39,False
+PRG0017,PAR005,Policy Lab,Bootcamp,2024-05-11,2024-11-27,53,False
+PRG0018,PAR005,Leaders of Tomorrow,Mentorship,2024-04-11,2024-09-28,51,False
+PRG0019,PAR005,Organizing Workshop,Mentorship,2023-03-07,2023-07-25,74,False
+PRG0020,PAR006,Campaign Bootcamp,Workshop,2024-06-24,2025-01-12,36,False
+PRG0021,PAR006,Organizing Workshop,Mentorship,2022-06-23,2022-10-03,26,False
+PRG0022,PAR006,Civic Fellows,Bootcamp,2023-04-27,2023-11-15,40,False
+PRG0023,PAR006,Leaders of Tomorrow,Bootcamp,2022-10-29,2022-12-04,75,False
+PRG0024,PAR006,Leaders of Tomorrow,Workshop,2025-06-05,2026-01-17,68,True
+PRG0025,PAR007,Policy Lab,Bootcamp,2024-02-26,2024-07-31,33,False
+PRG0026,PAR007,Leaders of Tomorrow,Workshop,2022-01-12,2022-08-22,43,False
+PRG0027,PAR007,Organizing Workshop,Workshop,2022-12-27,2023-08-19,21,False
+PRG0028,PAR008,Campaign Bootcamp,Workshop,2022-09-06,2023-01-30,55,False
+PRG0029,PAR008,Organizing Workshop,Workshop,2024-06-25,2024-12-28,72,False
+PRG0030,PAR008,Policy Lab,Workshop,2022-11-22,2023-06-30,48,False
+PRG0031,PAR009,Organizing Workshop,Workshop,2025-07-29,2025-11-06,45,True
+PRG0032,PAR009,Leaders of Tomorrow,Mentorship,2023-07-17,2023-12-06,45,False
+PRG0033,PAR009,Civic Fellows,Fellowship,2023-07-11,2023-11-03,32,False
+PRG0034,PAR010,Campaign Bootcamp,Bootcamp,2023-04-19,2023-08-25,23,False
+PRG0035,PAR010,Civic Fellows,Workshop,2024-04-29,2024-09-10,68,False
+PRG0036,PAR010,Policy Lab,Workshop,2022-05-08,2022-07-29,17,False
+PRG0037,PAR011,Civic Fellows,Mentorship,2024-09-03,2024-10-04,64,False
+PRG0038,PAR011,Organizing Workshop,Bootcamp,2024-05-08,2024-10-22,77,False
+PRG0039,PAR011,Policy Lab,Workshop,2023-03-26,2023-07-03,18,False
+PRG0040,PAR011,Policy Lab,Bootcamp,2024-03-07,2024-07-01,74,False
+PRG0041,PAR011,Organizing Workshop,Fellowship,2022-09-19,2023-03-27,65,False
+PRG0042,PAR012,Policy Lab,Bootcamp,2022-06-21,2023-01-01,74,False
+PRG0043,PAR012,Civic Fellows,Workshop,2023-01-08,2023-02-19,56,False
+PRG0044,PAR013,Civic Fellows,Workshop,2024-07-20,2024-11-10,50,False
+PRG0045,PAR013,Leaders of Tomorrow,Workshop,2024-05-13,2024-08-15,17,False
+PRG0046,PAR013,Civic Fellows,Bootcamp,2025-01-09,2025-02-21,23,False
+PRG0047,PAR014,Campaign Bootcamp,Fellowship,2022-03-05,2022-06-06,34,False
+PRG0048,PAR014,Policy Lab,Fellowship,2023-05-04,2023-07-05,42,False
+PRG0049,PAR015,Civic Fellows,Bootcamp,2023-06-09,2024-01-21,29,False
+PRG0050,PAR015,Leaders of Tomorrow,Fellowship,2022-12-02,2023-03-21,54,False
+PRG0051,PAR015,Policy Lab,Workshop,2025-03-25,2025-10-14,40,True
+PRG0052,PAR015,Campaign Bootcamp,Fellowship,2022-06-05,2022-12-03,53,False
+PRG0053,PAR015,Leaders of Tomorrow,Fellowship,2025-05-14,2026-01-05,59,True
+PRG0054,PAR016,Organizing Workshop,Mentorship,2024-01-29,2024-03-16,16,False
+PRG0055,PAR016,Policy Lab,Fellowship,2024-05-10,2025-01-05,70,False
+PRG0056,PAR016,Policy Lab,Bootcamp,2024-01-12,2024-07-22,70,False
+PRG0057,PAR016,Organizing Workshop,Mentorship,2022-12-27,2023-08-01,76,False
+PRG0058,PAR016,Organizing Workshop,Mentorship,2024-08-10,2024-12-29,56,False
+PRG0059,PAR017,Policy Lab,Bootcamp,2022-06-27,2022-10-06,74,False
+PRG0060,PAR017,Policy Lab,Mentorship,2025-03-13,2025-09-15,18,True
+PRG0061,PAR017,Campaign Bootcamp,Workshop,2024-10-09,2025-01-30,42,False
+PRG0062,PAR018,Civic Fellows,Mentorship,2023-06-14,2023-10-09,16,False
+PRG0063,PAR018,Leaders of Tomorrow,Bootcamp,2024-11-24,2025-02-10,67,False
+PRG0064,PAR018,Campaign Bootcamp,Workshop,2024-09-27,2025-03-18,77,False
+PRG0065,PAR018,Leaders of Tomorrow,Fellowship,2024-07-06,2025-02-23,52,False
+PRG0066,PAR019,Campaign Bootcamp,Mentorship,2024-04-08,2024-11-01,62,False
+PRG0067,PAR019,Organizing Workshop,Mentorship,2024-08-27,2025-02-14,69,False
+PRG0068,PAR019,Civic Fellows,Workshop,2025-02-01,2025-05-26,49,False
+PRG0069,PAR020,Leaders of Tomorrow,Bootcamp,2023-05-30,2023-08-27,55,False
+PRG0070,PAR020,Organizing Workshop,Bootcamp,2022-09-02,2023-04-10,39,False
+PRG0071,PAR020,Policy Lab,Mentorship,2023-03-20,2023-10-25,51,False
+PRG0072,PAR020,Civic Fellows,Bootcamp,2022-07-25,2022-10-12,61,False
+PRG0073,PAR021,Organizing Workshop,Bootcamp,2023-09-12,2023-10-15,50,False
+PRG0074,PAR021,Organizing Workshop,Mentorship,2022-04-04,2022-05-17,31,False
+PRG0075,PAR021,Policy Lab,Fellowship,2025-07-30,2026-03-09,16,True
+PRG0076,PAR022,Policy Lab,Mentorship,2024-08-19,2025-01-18,38,False
+PRG0077,PAR022,Policy Lab,Fellowship,2022-04-16,2022-07-19,23,False
+PRG0078,PAR022,Leaders of Tomorrow,Fellowship,2024-03-31,2024-09-02,34,False
+PRG0079,PAR022,Organizing Workshop,Mentorship,2022-11-02,2023-06-27,25,False
+PRG0080,PAR023,Policy Lab,Bootcamp,2022-08-31,2023-02-19,63,False
+PRG0081,PAR023,Civic Fellows,Workshop,2024-07-11,2024-12-01,54,False
+PRG0082,PAR023,Leaders of Tomorrow,Fellowship,2025-03-10,2025-09-14,41,True
+PRG0083,PAR024,Leaders of Tomorrow,Bootcamp,2023-06-26,2024-01-11,45,False
+PRG0084,PAR024,Leaders of Tomorrow,Bootcamp,2022-12-22,2023-06-11,15,False
+PRG0085,PAR024,Organizing Workshop,Workshop,2024-04-16,2024-09-08,52,False
+PRG0086,PAR025,Civic Fellows,Workshop,2023-04-20,2023-08-01,24,False
+PRG0087,PAR025,Organizing Workshop,Bootcamp,2023-04-24,2023-07-30,69,False
+PRG0088,PAR026,Campaign Bootcamp,Mentorship,2025-01-20,2025-04-17,33,False
+PRG0089,PAR026,Campaign Bootcamp,Mentorship,2022-05-27,2022-07-11,51,False
+PRG0090,PAR027,Civic Fellows,Workshop,2022-09-12,2023-02-08,49,False
+PRG0091,PAR027,Policy Lab,Workshop,2024-10-21,2025-04-07,25,False
+PRG0092,PAR027,Policy Lab,Mentorship,2025-05-09,2025-06-18,47,False
+PRG0093,PAR027,Campaign Bootcamp,Fellowship,2022-02-22,2022-04-16,49,False
+PRG0094,PAR027,Campaign Bootcamp,Workshop,2025-03-26,2025-05-05,71,False
+PRG0095,PAR028,Policy Lab,Workshop,2023-01-07,2023-07-05,26,False
+PRG0096,PAR028,Policy Lab,Mentorship,2024-08-20,2024-12-17,56,False
+PRG0097,PAR028,Civic Fellows,Workshop,2022-08-03,2022-10-13,78,False
+PRG0098,PAR028,Policy Lab,Fellowship,2023-08-14,2024-02-29,73,False
+PRG0099,PAR029,Civic Fellows,Fellowship,2023-10-07,2024-01-09,66,False
+PRG0100,PAR029,Organizing Workshop,Workshop,2024-11-19,2024-12-19,67,False
+PRG0101,PAR030,Civic Fellows,Workshop,2023-01-20,2023-07-01,71,False
+PRG0102,PAR030,Civic Fellows,Bootcamp,2022-04-16,2022-07-07,51,False
+PRG0103,PAR031,Leaders of Tomorrow,Bootcamp,2024-09-19,2024-11-19,35,False
+PRG0104,PAR031,Leaders of Tomorrow,Workshop,2023-09-29,2024-03-18,26,False
+PRG0105,PAR031,Policy Lab,Fellowship,2023-04-06,2023-06-04,34,False
+PRG0106,PAR031,Civic Fellows,Mentorship,2024-10-17,2025-05-18,68,False
+PRG0107,PAR031,Campaign Bootcamp,Workshop,2024-09-15,2025-02-12,33,False
+PRG0108,PAR032,Organizing Workshop,Bootcamp,2023-01-26,2023-07-28,23,False
+PRG0109,PAR032,Policy Lab,Mentorship,2023-07-20,2024-03-03,79,False
+PRG0110,PAR032,Leaders of Tomorrow,Mentorship,2023-07-02,2024-02-27,53,False
+PRG0111,PAR032,Policy Lab,Bootcamp,2025-04-17,2025-10-12,72,True
+PRG0112,PAR032,Civic Fellows,Mentorship,2025-01-08,2025-06-10,63,False
+PRG0113,PAR033,Campaign Bootcamp,Workshop,2023-10-22,2024-01-08,44,False
+PRG0114,PAR033,Civic Fellows,Workshop,2024-04-21,2024-06-01,63,False
+PRG0115,PAR033,Campaign Bootcamp,Workshop,2024-03-01,2024-09-16,19,False
+PRG0116,PAR033,Organizing Workshop,Mentorship,2022-09-16,2023-02-21,27,False
+PRG0117,PAR033,Organizing Workshop,Workshop,2024-06-20,2024-08-14,16,False
+PRG0118,PAR034,Campaign Bootcamp,Fellowship,2024-04-19,2024-11-02,75,False
+PRG0119,PAR034,Organizing Workshop,Workshop,2023-06-27,2023-10-21,25,False
+PRG0120,PAR034,Organizing Workshop,Workshop,2023-11-04,2024-05-24,55,False
+PRG0121,PAR035,Organizing Workshop,Fellowship,2025-01-13,2025-02-21,45,False
+PRG0122,PAR035,Civic Fellows,Bootcamp,2025-07-16,2026-02-06,26,True
+PRG0123,PAR035,Leaders of Tomorrow,Workshop,2024-06-07,2024-08-01,36,False
+PRG0124,PAR035,Leaders of Tomorrow,Mentorship,2023-09-06,2023-10-13,22,False
+PRG0125,PAR035,Civic Fellows,Workshop,2023-08-24,2023-12-23,33,False
+PRG0126,PAR036,Organizing Workshop,Bootcamp,2024-12-23,2025-05-07,36,False
+PRG0127,PAR036,Organizing Workshop,Workshop,2022-12-25,2023-02-13,45,False
+PRG0128,PAR036,Campaign Bootcamp,Bootcamp,2024-10-16,2025-04-13,74,False
+PRG0129,PAR037,Leaders of Tomorrow,Workshop,2024-07-30,2024-11-02,51,False
+PRG0130,PAR037,Leaders of Tomorrow,Workshop,2025-01-24,2025-04-04,59,False
+PRG0131,PAR037,Policy Lab,Mentorship,2025-04-18,2025-08-02,73,True
+PRG0132,PAR037,Policy Lab,Workshop,2023-09-11,2023-11-30,28,False
+PRG0133,PAR038,Civic Fellows,Mentorship,2024-02-21,2024-08-15,52,False
+PRG0134,PAR038,Policy Lab,Mentorship,2022-02-14,2022-08-31,16,False
+PRG0135,PAR038,Leaders of Tomorrow,Workshop,2025-03-05,2025-09-26,51,True
+PRG0136,PAR039,Civic Fellows,Bootcamp,2025-05-28,2026-01-18,39,True
+PRG0137,PAR039,Campaign Bootcamp,Fellowship,2025-06-25,2025-09-27,20,True
+PRG0138,PAR039,Policy Lab,Fellowship,2023-09-25,2024-05-13,61,False
+PRG0139,PAR040,Civic Fellows,Workshop,2022-07-04,2022-10-17,37,False
+PRG0140,PAR040,Organizing Workshop,Mentorship,2023-02-16,2023-04-20,79,False
+PRG0141,PAR040,Civic Fellows,Workshop,2023-07-13,2023-09-23,52,False
+PRG0142,PAR041,Leaders of Tomorrow,Bootcamp,2022-08-24,2023-01-20,43,False
+PRG0143,PAR041,Organizing Workshop,Mentorship,2024-03-24,2024-11-14,26,False
+PRG0144,PAR041,Civic Fellows,Fellowship,2024-03-19,2024-04-21,73,False
+PRG0145,PAR041,Civic Fellows,Workshop,2024-01-25,2024-08-14,62,False
+PRG0146,PAR042,Leaders of Tomorrow,Mentorship,2023-04-24,2023-09-21,43,False
+PRG0147,PAR042,Policy Lab,Mentorship,2025-08-19,2025-10-04,67,True
+PRG0148,PAR043,Leaders of Tomorrow,Mentorship,2022-10-14,2022-11-24,78,False
+PRG0149,PAR043,Campaign Bootcamp,Bootcamp,2022-08-26,2022-10-19,64,False
+PRG0150,PAR044,Organizing Workshop,Workshop,2024-01-30,2024-08-18,34,False
+PRG0151,PAR044,Leaders of Tomorrow,Workshop,2024-04-29,2024-11-12,67,False
+PRG0152,PAR044,Civic Fellows,Bootcamp,2023-07-27,2023-09-03,71,False
+PRG0153,PAR044,Civic Fellows,Fellowship,2024-06-29,2024-09-27,62,False
+PRG0154,PAR044,Civic Fellows,Fellowship,2025-01-20,2025-08-03,65,True
+PRG0155,PAR045,Policy Lab,Fellowship,2023-01-24,2023-03-26,42,False
+PRG0156,PAR045,Organizing Workshop,Fellowship,2025-08-07,2026-02-16,21,True
+PRG0157,PAR045,Campaign Bootcamp,Bootcamp,2023-11-15,2024-02-15,23,False
+PRG0158,PAR045,Organizing Workshop,Bootcamp,2025-02-09,2025-05-03,44,False
+PRG0159,PAR046,Organizing Workshop,Fellowship,2022-10-30,2023-06-18,50,False
+PRG0160,PAR046,Organizing Workshop,Mentorship,2022-10-24,2022-12-26,37,False
+PRG0161,PAR046,Leaders of Tomorrow,Bootcamp,2022-08-14,2023-03-01,16,False
+PRG0162,PAR046,Campaign Bootcamp,Mentorship,2024-01-04,2024-08-23,17,False
+PRG0163,PAR047,Campaign Bootcamp,Workshop,2023-06-28,2023-08-10,29,False
+PRG0164,PAR047,Policy Lab,Mentorship,2022-05-11,2022-10-09,80,False
+PRG0165,PAR047,Policy Lab,Bootcamp,2025-04-30,2025-06-26,20,False
+PRG0166,PAR048,Leaders of Tomorrow,Fellowship,2024-07-27,2025-02-06,76,False
+PRG0167,PAR048,Leaders of Tomorrow,Workshop,2024-04-02,2024-08-19,71,False
+PRG0168,PAR048,Civic Fellows,Bootcamp,2022-05-31,2022-07-20,23,False
+PRG0169,PAR048,Organizing Workshop,Mentorship,2022-09-16,2022-12-25,63,False
+PRG0170,PAR049,Organizing Workshop,Workshop,2024-07-18,2024-12-24,27,False
+PRG0171,PAR049,Organizing Workshop,Bootcamp,2022-08-23,2023-03-08,70,False
+PRG0172,PAR049,Policy Lab,Mentorship,2024-07-13,2024-10-09,73,False
+PRG0173,PAR049,Leaders of Tomorrow,Mentorship,2024-03-27,2024-08-10,69,False
+PRG0174,PAR050,Campaign Bootcamp,Workshop,2023-06-07,2023-10-10,23,False
+PRG0175,PAR050,Leaders of Tomorrow,Workshop,2022-07-06,2022-08-26,27,False
+PRG0176,PAR050,Campaign Bootcamp,Fellowship,2024-02-03,2024-09-27,57,False
+PRG0177,PAR050,Civic Fellows,Workshop,2022-09-08,2023-01-21,21,False
+PRG0178,PAR051,Civic Fellows,Fellowship,2025-05-14,2025-08-31,79,True
+PRG0179,PAR051,Policy Lab,Bootcamp,2023-03-12,2023-05-20,28,False
+PRG0180,PAR051,Civic Fellows,Fellowship,2023-12-19,2024-06-08,50,False
+PRG0181,PAR051,Policy Lab,Fellowship,2025-03-21,2025-06-16,49,False
+PRG0182,PAR052,Civic Fellows,Mentorship,2023-01-05,2023-04-14,59,False
+PRG0183,PAR052,Campaign Bootcamp,Workshop,2022-01-13,2022-03-30,23,False
+PRG0184,PAR053,Leaders of Tomorrow,Bootcamp,2025-07-20,2025-08-26,63,True
+PRG0185,PAR053,Civic Fellows,Bootcamp,2024-05-09,2024-10-02,62,False
+PRG0186,PAR053,Civic Fellows,Fellowship,2023-10-01,2024-05-02,21,False
+PRG0187,PAR054,Organizing Workshop,Fellowship,2022-11-19,2023-06-30,25,False
+PRG0188,PAR054,Policy Lab,Workshop,2023-07-12,2023-12-02,71,False
+PRG0189,PAR054,Campaign Bootcamp,Fellowship,2024-04-28,2024-08-05,59,False
+PRG0190,PAR055,Organizing Workshop,Workshop,2022-08-16,2022-11-26,54,False
+PRG0191,PAR055,Policy Lab,Fellowship,2022-04-04,2022-06-29,15,False
+PRG0192,PAR055,Campaign Bootcamp,Bootcamp,2023-02-23,2023-06-10,47,False
+PRG0193,PAR055,Leaders of Tomorrow,Fellowship,2023-08-16,2023-12-07,78,False
+PRG0194,PAR055,Campaign Bootcamp,Workshop,2024-05-31,2024-08-13,44,False
+PRG0195,PAR056,Leaders of Tomorrow,Workshop,2022-05-28,2022-10-06,17,False
+PRG0196,PAR056,Civic Fellows,Workshop,2024-07-30,2024-09-17,66,False
+PRG0197,PAR056,Civic Fellows,Fellowship,2025-08-04,2025-12-18,66,True
+PRG0198,PAR056,Campaign Bootcamp,Workshop,2022-02-12,2022-06-05,61,False
+PRG0199,PAR057,Campaign Bootcamp,Workshop,2024-06-13,2024-08-09,66,False
+PRG0200,PAR057,Policy Lab,Mentorship,2024-12-09,2025-01-28,58,False
+PRG0201,PAR058,Campaign Bootcamp,Fellowship,2023-11-14,2024-06-30,80,False
+PRG0202,PAR058,Organizing Workshop,Bootcamp,2025-07-20,2025-09-17,59,True
+PRG0203,PAR058,Campaign Bootcamp,Bootcamp,2023-12-21,2024-07-24,28,False
+PRG0204,PAR059,Campaign Bootcamp,Bootcamp,2023-06-09,2023-08-28,24,False
+PRG0205,PAR059,Policy Lab,Workshop,2022-12-29,2023-08-13,72,False
+PRG0206,PAR059,Organizing Workshop,Mentorship,2025-03-02,2025-09-12,55,True
+PRG0207,PAR060,Policy Lab,Workshop,2024-06-19,2024-08-05,53,False
+PRG0208,PAR060,Leaders of Tomorrow,Mentorship,2023-07-17,2024-01-14,79,False
+PRG0209,PAR060,Policy Lab,Workshop,2022-06-01,2022-09-18,19,False
+PRG0210,PAR061,Leaders of Tomorrow,Fellowship,2024-01-26,2024-05-08,79,False
+PRG0211,PAR061,Organizing Workshop,Fellowship,2024-02-27,2024-07-24,72,False
+PRG0212,PAR062,Policy Lab,Bootcamp,2023-10-21,2024-04-22,22,False
+PRG0213,PAR062,Civic Fellows,Fellowship,2024-07-11,2024-09-05,79,False
+PRG0214,PAR062,Leaders of Tomorrow,Bootcamp,2025-08-16,2025-10-29,71,True
+PRG0215,PAR063,Organizing Workshop,Bootcamp,2024-12-09,2025-05-21,61,False
+PRG0216,PAR063,Policy Lab,Workshop,2024-02-03,2024-05-15,58,False
+PRG0217,PAR063,Civic Fellows,Fellowship,2025-05-09,2025-06-21,57,False
+PRG0218,PAR063,Policy Lab,Mentorship,2022-07-13,2023-01-01,47,False
+PRG0219,PAR063,Civic Fellows,Fellowship,2025-05-19,2025-07-26,33,True
+PRG0220,PAR064,Policy Lab,Bootcamp,2023-09-28,2024-04-12,25,False
+PRG0221,PAR064,Policy Lab,Mentorship,2023-09-27,2024-03-18,31,False
+PRG0222,PAR064,Policy Lab,Mentorship,2024-12-14,2025-02-05,17,False
+PRG0223,PAR064,Campaign Bootcamp,Bootcamp,2024-01-13,2024-05-01,58,False
+PRG0224,PAR065,Campaign Bootcamp,Bootcamp,2023-01-29,2023-04-26,24,False
+PRG0225,PAR065,Leaders of Tomorrow,Fellowship,2023-08-29,2024-04-16,58,False
+PRG0226,PAR065,Organizing Workshop,Workshop,2025-06-19,2025-08-21,34,True
+PRG0227,PAR065,Organizing Workshop,Bootcamp,2022-11-29,2023-02-13,71,False
+PRG0228,PAR065,Civic Fellows,Bootcamp,2022-03-31,2022-08-13,71,False
+PRG0229,PAR066,Organizing Workshop,Bootcamp,2024-07-08,2024-10-05,54,False
+PRG0230,PAR066,Civic Fellows,Workshop,2024-08-18,2024-11-05,74,False
+PRG0231,PAR066,Policy Lab,Workshop,2023-08-01,2024-03-17,35,False
+PRG0232,PAR066,Organizing Workshop,Bootcamp,2023-02-13,2023-10-06,47,False
+PRG0233,PAR067,Civic Fellows,Fellowship,2025-08-06,2026-01-06,30,True
+PRG0234,PAR067,Campaign Bootcamp,Mentorship,2023-08-07,2023-09-27,72,False
+PRG0235,PAR068,Campaign Bootcamp,Workshop,2024-06-14,2024-08-06,59,False
+PRG0236,PAR068,Leaders of Tomorrow,Workshop,2022-02-24,2022-07-10,79,False
+PRG0237,PAR068,Policy Lab,Fellowship,2024-02-05,2024-05-05,62,False
+PRG0238,PAR069,Leaders of Tomorrow,Mentorship,2022-02-27,2022-06-18,33,False
+PRG0239,PAR069,Civic Fellows,Workshop,2022-10-09,2022-11-17,32,False
+PRG0240,PAR069,Organizing Workshop,Fellowship,2024-08-18,2025-01-09,25,False
+PRG0241,PAR070,Campaign Bootcamp,Workshop,2023-06-09,2023-09-02,29,False
+PRG0242,PAR070,Civic Fellows,Fellowship,2023-08-14,2023-11-12,21,False
+PRG0243,PAR071,Organizing Workshop,Workshop,2024-05-09,2024-11-18,23,False
+PRG0244,PAR071,Organizing Workshop,Fellowship,2022-08-16,2023-01-20,80,False
+PRG0245,PAR071,Campaign Bootcamp,Mentorship,2025-03-23,2025-06-22,69,False
+PRG0246,PAR072,Campaign Bootcamp,Workshop,2025-06-13,2025-10-11,38,True
+PRG0247,PAR072,Civic Fellows,Fellowship,2022-06-25,2022-12-06,79,False
+PRG0248,PAR073,Leaders of Tomorrow,Workshop,2024-03-10,2024-08-07,62,False
+PRG0249,PAR073,Leaders of Tomorrow,Mentorship,2023-06-04,2024-01-11,23,False
+PRG0250,PAR074,Leaders of Tomorrow,Mentorship,2023-05-09,2023-12-12,32,False
+PRG0251,PAR074,Organizing Workshop,Mentorship,2022-04-01,2022-07-30,37,False
+PRG0252,PAR074,Policy Lab,Bootcamp,2024-08-09,2025-03-05,32,False
+PRG0253,PAR074,Policy Lab,Fellowship,2022-05-10,2022-12-09,52,False
+PRG0254,PAR075,Campaign Bootcamp,Fellowship,2022-03-31,2022-11-18,55,False
+PRG0255,PAR075,Policy Lab,Workshop,2023-09-28,2024-03-07,47,False
+PRG0256,PAR075,Campaign Bootcamp,Mentorship,2022-03-16,2022-10-24,60,False
+PRG0257,PAR076,Leaders of Tomorrow,Mentorship,2023-11-11,2024-02-18,70,False
+PRG0258,PAR076,Policy Lab,Workshop,2024-03-30,2024-11-05,58,False

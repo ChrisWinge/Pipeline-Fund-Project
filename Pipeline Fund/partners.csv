@@ -1,0 +1,77 @@
+partner_id,partner_name,state,focus_area,org_type,founded_year
+PAR001,WI Future Leaders,WI,Youth Leadership,501(c)(3),2012
+PAR002,WI Rising Leaders,WI,Candidate Training,Nonprofit Coalition,2018
+PAR003,WI Future Leaders,WI,Candidate Training,501(c)(3),2012
+PAR004,WI Forward Network,WI,Candidate Training,Nonprofit Coalition,2011
+PAR005,MI Forward Alliance,MI,Civic Engagement,501(c)(4),2023
+PAR006,MI Civic Leaders,MI,Civic Engagement,Nonprofit Coalition,2018
+PAR007,MI Civic Coalition,MI,Civic Engagement,501(c)(3),2015
+PAR008,MI Future Leaders,MI,Policy Advocacy,501(c)(3),2016
+PAR009,MN Civic Network,MN,Youth Leadership,501(c)(3),2019
+PAR010,MN Forward Leaders,MN,Policy Advocacy,501(c)(3),2022
+PAR011,MN Civic Network,MN,Youth Leadership,Nonprofit Coalition,2011
+PAR012,MN Future Leaders,MN,Civic Engagement,501(c)(4),2007
+PAR013,IL Rising Leaders,IL,Policy Advocacy,501(c)(4),2019
+PAR014,IL Civic Voices,IL,Youth Leadership,501(c)(4),2011
+PAR015,IL Civic Leaders,IL,Civic Engagement,Nonprofit Coalition,2012
+PAR016,IL Rising Alliance,IL,Policy Advocacy,501(c)(4),2022
+PAR017,PA Rising Coalition,PA,Candidate Training,501(c)(3),2006
+PAR018,PA Civic Alliance,PA,Youth Leadership,501(c)(3),2011
+PAR019,PA Forward Coalition,PA,Civic Engagement,Nonprofit Coalition,2020
+PAR020,PA Unity Alliance,PA,Civic Engagement,501(c)(4),2009
+PAR021,GA Rising Network,GA,Youth Leadership,Nonprofit Coalition,2023
+PAR022,GA Unity Network,GA,Policy Advocacy,501(c)(4),2012
+PAR023,GA Rising Network,GA,Policy Advocacy,501(c)(3),2006
+PAR024,GA Future Voices,GA,Civic Engagement,Nonprofit Coalition,2018
+PAR025,AZ Forward Leaders,AZ,Policy Advocacy,501(c)(4),2024
+PAR026,AZ Unity Network,AZ,Youth Leadership,Nonprofit Coalition,2005
+PAR027,AZ Future Network,AZ,Youth Leadership,Nonprofit Coalition,2015
+PAR028,AZ Future Coalition,AZ,Policy Advocacy,501(c)(3),2019
+PAR029,TX Future Coalition,TX,Civic Engagement,Nonprofit Coalition,2008
+PAR030,TX Civic Network,TX,Civic Engagement,501(c)(3),2016
+PAR031,TX Rising Network,TX,Candidate Training,Nonprofit Coalition,2015
+PAR032,TX Unity Leaders,TX,Candidate Training,501(c)(4),2014
+PAR033,CO Rising Leaders,CO,Civic Engagement,Nonprofit Coalition,2007
+PAR034,CO Future Alliance,CO,Candidate Training,Nonprofit Coalition,2009
+PAR035,CO Rising Alliance,CO,Civic Engagement,501(c)(4),2021
+PAR036,CO Forward Alliance,CO,Civic Engagement,Nonprofit Coalition,2011
+PAR037,NC Civic Alliance,NC,Youth Leadership,501(c)(4),2021
+PAR038,NC Unity Leaders,NC,Civic Engagement,501(c)(3),2007
+PAR039,NC Civic Leaders,NC,Civic Engagement,Nonprofit Coalition,2012
+PAR040,NC Future Leaders,NC,Candidate Training,501(c)(3),2007
+PAR041,NY Future Coalition,NY,Candidate Training,Nonprofit Coalition,2012
+PAR042,NY Civic Alliance,NY,Civic Engagement,Nonprofit Coalition,2009
+PAR043,NY Forward Network,NY,Policy Advocacy,501(c)(3),2020
+PAR044,NY Unity Voices,NY,Candidate Training,501(c)(3),2018
+PAR045,NV Civic Alliance,NV,Policy Advocacy,501(c)(4),2006
+PAR046,NV Future Leaders,NV,Policy Advocacy,Nonprofit Coalition,2015
+PAR047,NV Future Voices,NV,Civic Engagement,501(c)(3),2022
+PAR048,NV Unity Voices,NV,Policy Advocacy,501(c)(3),2013
+PAR049,NM Unity Voices,NM,Candidate Training,501(c)(4),2022
+PAR050,NM Future Leaders,NM,Candidate Training,501(c)(3),2012
+PAR051,NM Rising Alliance,NM,Policy Advocacy,501(c)(4),2011
+PAR052,NM Unity Leaders,NM,Civic Engagement,501(c)(4),2005
+PAR053,OH Unity Coalition,OH,Policy Advocacy,501(c)(4),2018
+PAR054,OH Forward Alliance,OH,Civic Engagement,501(c)(3),2014
+PAR055,OH Rising Leaders,OH,Candidate Training,Nonprofit Coalition,2015
+PAR056,OH Future Leaders,OH,Policy Advocacy,Nonprofit Coalition,2021
+PAR057,FL Rising Leaders,FL,Candidate Training,501(c)(3),2007
+PAR058,FL Forward Leaders,FL,Civic Engagement,501(c)(4),2008
+PAR059,FL Forward Voices,FL,Candidate Training,Nonprofit Coalition,2007
+PAR060,FL Unity Network,FL,Youth Leadership,501(c)(4),2011
+PAR061,VA Civic Voices,VA,Youth Leadership,501(c)(4),2009
+PAR062,VA Civic Alliance,VA,Youth Leadership,501(c)(3),2005
+PAR063,VA Unity Network,VA,Candidate Training,501(c)(3),2022
+PAR064,VA Rising Network,VA,Youth Leadership,501(c)(3),2016
+PAR065,WA Future Voices,WA,Youth Leadership,501(c)(4),2010
+PAR066,WA Unity Network,WA,Youth Leadership,Nonprofit Coalition,2021
+PAR067,WA Future Network,WA,Youth Leadership,Nonprofit Coalition,2008
+PAR068,WA Rising Coalition,WA,Candidate Training,501(c)(3),2022
+PAR069,OR Rising Coalition,OR,Youth Leadership,Nonprofit Coalition,2011
+PAR070,OR Civic Voices,OR,Youth Leadership,Nonprofit Coalition,2020
+PAR071,OR Civic Leaders,OR,Candidate Training,Nonprofit Coalition,2018
+PAR072,OR Civic Leaders,OR,Candidate Training,501(c)(4),2009
+PAR073,MO Civic Voices,MO,Policy Advocacy,Nonprofit Coalition,2018
+PAR074,MO Forward Leaders,MO,Candidate Training,501(c)(3),2009
+PAR075,MO Forward Leaders,MO,Youth Leadership,Nonprofit Coalition,2022
+PAR076,MO Rising Alliance,MO,Civic Engagement,501(c)(3),2014
